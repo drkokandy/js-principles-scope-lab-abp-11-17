@@ -21,6 +21,6 @@ function changeLeastFavoriteCustomer(baddie) {
 
 const favoriteCustomer = Ma;
 
-function attemptTwoFavoriteCustomers() {
-  
+function attemptTwoFavoriteCustomers(you) {
+  let favoriteCustomer = you
 }
