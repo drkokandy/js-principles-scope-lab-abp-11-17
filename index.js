@@ -23,4 +23,5 @@ const favoriteCustomer = Ma;
 
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = you;
+  let favoriteCustomer = me;
 }
